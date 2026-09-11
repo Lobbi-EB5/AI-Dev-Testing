@@ -2,11 +2,7 @@
 
 > A modern solution for managing Power Platform governance, ALM, and environment administration.
 
-./images/https://i0.wp.com/eb5.is/wp-content/uploads/2026/01/eb5.jpg?resize=6250%2C6250&ssl=1
-
-https://img.shields.io/github/stars/username/repo
-https://img.shields.io/github/forks/username/repo
-https://img.shields.io/github/license/username/repo
+![EB5 Logo](https://i0.wp.com/eb5.is/wp-content/uploads/2026/01/eb5.jpg?resize=6250%
 
 ---
 
